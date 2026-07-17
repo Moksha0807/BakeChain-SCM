@@ -1,8 +1,13 @@
-# QR Code temporary cache files
-phpqrcode/cache/
+# Private database configuration
+config/database.php
 
-# Generated QR images
-assets/qr/*.png
+# Editor settings
+.vscode/
 
-# Local database test file
-test_connection.php
+# Git and system files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.log
+*.tmp
