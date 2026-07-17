@@ -1,0 +1,8 @@
+# QR Code temporary cache files
+phpqrcode/cache/
+
+# Generated QR images
+assets/qr/*.png
+
+# Local database test file
+test_connection.php
